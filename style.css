@@ -1,0 +1,23 @@
+body {
+	background:url(blue-and-purple-cosmic-sky-956999.jpg)no-repeat;
+	background-size: cover;
+}
+.img {
+	width: 100%
+}
+.first-img {
+	width: 50%
+}
+.Second-img {
+	width: 50%
+}
+img {
+	display: block;
+	margin:0px auto
+}
+.a {
+	background-color: cyan
+}
+h1 {
+	color: white
+}
